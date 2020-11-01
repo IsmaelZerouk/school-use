@@ -1,0 +1,12 @@
+
+Comments on SQL
+
+Something that i have notived on my recomendation list is that the Starring and title list both have the same recommendations and the same treshold, eventhough the parameters are different. 
+
+Also in the title recommendation part you would guess that it would also show the other batman titles higher up but the first recomendation is untill line 17, 
+while i do say that it should look for titles that contain batman. 
+
+As for recommendations based on summary it says that the best movie that i should watch is good night and good luck but you would guess that it would be another batman movie that was
+something that i didnt expect. 
+
+All in all i think that the recommendation does work good and properly. 
